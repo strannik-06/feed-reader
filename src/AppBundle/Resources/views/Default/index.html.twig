@@ -1,0 +1,42 @@
+{% extends '::base.html.twig' %}
+
+{% block title %}Tradetracker{% endblock %}
+
+{# todo: check how netter cdns could be included #}
+{# todo: add minimizing for custom files #}
+{% block javascripts %}
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.2/angular.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    {% javascripts '@AppBundle/Resources/js/app.js' %}
+        <script src="{{ asset_url }}"></script>
+    {% endjavascripts %}
+{% endblock %}
+
+{% block stylesheets %}
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+{% endblock %}
+
+{% block body %}
+    {% verbatim %}
+    <div class="container" ng-app="app" ng-controller="FeedController">
+        <h2>Feed application</h2>
+        <div class="col-sm-3">
+            <form role="form">
+                <div class="form-group">
+                    <input class="form-control" ng-model="source" value="" placeholder="Enter source">
+                </div>
+                <input type="button" class="btn btn-default" value="Get data" ng-click="retrieveItems(source)" />
+            </form>
+        </div>
+        <div class="col-sm-9">
+            <ul class="list-group">
+                <li class="list-group-item" ng-repeat="phone in items">
+                    <span>{{ phone.name }}</span>
+                    <p>{{ phone.snippet }}</p>
+                </li>
+            </ul>
+        </div>
+    </div>
+    {% endverbatim %}
+{% endblock %}

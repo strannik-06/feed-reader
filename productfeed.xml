@@ -1,0 +1,920 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generated on 09/26/15 at 14:51:32 (http://pf.tradetracker.net) -->
+<products>
+<product>
+<productID>kaspersky lab_kl4251xapts</productID>
+<name>Kaspersky Lab Kaspersky Security for Virtualization - Server - 25-49 Virtualserver - (KL4251XAPTS)</name>
+<price currency="EUR">143.99</price>
+<productURL>http://www.centralpoint.nl/tracker/index.php?tt=534_251713_1_&amp;r=http%3A%2F%2Fwww.centralpoint.nl%2Fantivirus-beveiligingssoftware%2Fkaspersky-lab%2Fkaspersky-security-for-virtualization-server-25-49-virtualserver-3-jaar-subscription-european-languages-including-english-dutch-art-kl4251xapts-num-1412663%2F</productURL>
+<imageURL>https://www01.cp-static.com/objects/low_pic/6/69e/1348525094_antivirus-beveiligingssoftware-kaspersky-lab-security-f-virtualization-server-25-49u-3y-base-kl4251xapts.jpg</imageURL>
+<description><![CDATA[Kaspersky Security for Virtualization
+Kaspersky Security for Virtualization 
+ built for the unique requirements of virtualised IT environments 
+ delivers award-winning anti-malware protection for virtualised servers, desktops and data centres.
+Kaspersky Security for Virtualization is an agentless anti-malware solution that provides a more efficient way to protect your virtualised infrastructure 
+ with greater performance and less impact on virtualisation density. The application is easy to deploy and includes advanced management features that simplify a wide range of security tasks 
+ across both physical and virtual computing assets.
+With Kaspersky Security for Virtualization, you can benefit from superior protection 
+ for all of your virtual machines 
+ while also improving your system utilisation rates, reducing the burden on your IT administration and security personnel
+ and increasing your overall return on investment (ROI).
+Advanced anti-malware
+Kaspersky
+s award-winning anti-malware engine achieves superior detection rates 
+ to help protect your physical and virtualised computing environment from new and increasingly sophisticated threats.
+Easy to manage
+Kaspersky Security Center 
+ which is available at no additional cost 
+ gives your IT team a single, unified management console that can manage the security of virtual machines, physical machines and mobile devices.
+Supporting business progress
+By making it easier for your team to manage hybrid environments 
+ including virtualised and conventional platforms 
+ Kaspersky Security for Virtualization helps you to introduce virtualisation at a pace that
+s right for your business.
+Improved return on investment (ROI)
+Because Kaspersky Security for Virtualization is an agentless solution, it helps businesses to achieve higher virtualisation density and performance 
+ helping to generate a higher return on investment.
+Superior security for virtualised environments
+Kaspersky Security for Virtualization has been specifically developed for virtualised IT infrastructure:
+- A single, centralised anti-malware solution can protect all virtual machines on a physical server;
+- Kaspersky
+s industry-leading frequency of anti-malware updates helps to minimise vulnerability and protect against new threats;
+- Powerful remediation capabilities disinfect malware;
+- The solution provides agentless protection for virtual machines that run on a wide range of Windows operating systems.
+Reducing costs 
+ by simplifying administration
+Advanced management features help to simplify administration tasks and eliminate security gaps:
+- Instead of having to install and manage protection on every virtual machine, a single instance of Kaspersky Security for Virtualization can protect all virtual machines on a physical server;
+- Physical and virtual endpoints are discovered dynamically;
+- New virtual machines are automatically provided with anti-malware protection 
+ to help eliminate security gaps and misconfigurations;
+- Administrators can adapt security settings to suit different applications and workloads.
+Many of the traditional, agent-based anti-malware products are not well suited to virtualised environments. Virtualisation is all about maximising the utilisation rates for the IT infrastructure 
+ in order to maximise return on investment. However, many agent-based anti-malware products require the antivirus software and signature database to be installed on every virtual machine
+ which partly defeats the object of virtualisation.
+Agent-based disadvantages
+- Duplication of antivirus software and signature database 
+ for every virtual machine 
+ reduces virtualisation density and reduces return on investment (ROI);
+- Duplication of file scanning of the base-line image 
+ reduces overall system performance;
+- When a dormant virtual machine is activated, it may have an out-of-date signature database or un-patched vulnerabilities;
+- 
+Scanning Storms
+ 
+ whereby multiple virtual machines are simultaneously running scans 
+ can adversely affect the performance of the host machine
+ or even cause a crash;
+- 
+Update Storms
+ 
+ whereby multiple virtual machines simultaneously download antivirus updates 
+ can adversely affect the performance of the host machine
+ or cause it to crash.
+Kaspersky
+s agentless solution
+Because Kaspersky Security for Virtualization is an agentless anti-malware solution, it only has to be installed once on a physical server
+ in order to protect all virtual machines on that server.
+- Higher density virtualisation 
+ as there is no duplication of antivirus software and signature database;
+- Improved performance 
+ from higher efficiency scanning;
+- Automatic protection for newly configured virtual machines and dormant virtual machines that are activated;
+- All updates of the anti-malware engine and signature database only need to be performed once per physical server 
+ not once per virtual machine
+ so 
+Update Storms
+ are eliminated;
+- Intelligent, load-balancing mechanisms help to guard against overload and limit the number of concurrent scans
+ so 
+Scanning Storms
+ are prevented.
+Applications inside Kaspersky Security for Virtualization
+- Kaspersky Security for Virtualization;
+- Kaspersky Security Center.]]></description>
+<categories>
+<category path="antivirus- &amp; beveiligingssoftware">antivirus- &amp; beveiligingssoftware</category>
+</categories>
+<additional>
+<field name="brand">Kaspersky Lab</field>
+<field name="producttype">Kaspersky Security for Virtualization - Server - 25-49 Virtualserver -</field>
+<field name="deliveryCosts">0.00</field>
+<field name="SKU">KL4251XAPTS</field>
+<field name="brand_and_type">Kaspersky Lab KL4251XAPTS</field>
+<field name="stock">Niet op voorraad</field>
+<field name="thumbnailURL">https://www01.cp-static.com/objects/thumb_pic/6/69e/1348525094_antivirus-beveiligingssoftware-kaspersky-lab-security-f-virtualization-server-25-49u-3y-base-kl4251xapts.jpg</field>
+<field name="deliveryTime">Backorder</field>
+<field name="imageURLlarge">https://www01.cp-static.com/objects/high_pic/6/69e/1348525094_antivirus-beveiligingssoftware-kaspersky-lab-security-f-virtualization-server-25-49u-3y-base-kl4251xapts.jpg</field>
+<field name="categoryURL">http://www.centralpoint.nl/antivirus-beveiligingssoftware/</field>
+<field name="EAN"></field>
+</additional>
+</product>
+<product>
+<productID>kaspersky lab_kl4251xaptw</productID>
+<name>Kaspersky Lab Kaspersky Security for Virtualization - Server - Crossgrade - 25-49 Vi (KL4251XAPTW)</name>
+<price currency="EUR">102.85</price>
+<productURL>http://www.centralpoint.nl/tracker/index.php?tt=534_251713_1_&amp;r=http%3A%2F%2Fwww.centralpoint.nl%2Fantivirus-beveiligingssoftware%2Fkaspersky-lab%2Fkaspersky-security-for-virtualization-server-crossgrade-25-49-virtualserver-3-jaar-subscription-digitale-levering-met-download-european-languages-inclusief-english-dutch-art-kl4251xap</productURL>
+<imageURL>https://www02.cp-static.com/objects/low_pic/7/787/1348525133_antivirus-beveiligingssoftware-kaspersky-lab-security-f-virtualization-server-25-49u-3y-cross-eng-dut-kl4251xaptw.jpg</imageURL>
+<description><![CDATA[Kaspersky Security for Virtualization
+Het beheren van de beveiliging in een heterogene of hybride IT-omgeving kan een lastige en tijdrovende taak zijn die vaak meerdere consoles en allerlei beheertools vereist.
+Kaspersky Security for Virtualization is een bekroonde anti-malware oplossing voor gevirtualiseerde infrastructuren, inclusief servers, desktops en datacenters. Daarnaast kunt u via 
+n centrale, uniforme beheerconsole de beveiliging beheren van allerlei soorten apparaten, waaronder fysieke servers, virtuele systemen en mobiele apparaten. Hierdoor worden belangrijke beveiligingstaken vereenvoudigd en wordt de zichtbaarheid van beveiligingsproblemen vergroot.
+Omdat Kaspersky Security for Virtualization een agentless toepassing is, zijn de prestaties en consolidatieratio's beter dan bij het gebruik van allerlei traditionele, agentgebaseerde beveiligingsproducten.
+Voordelen
+Gecentraliseerde beveiliging, ontwikkeld voor gevirtualiseerde omgevingen
+Kaspersky Security for Virtualization is een virtuele appliance die met vShield Endpoint van VMware wordt ge
+ntegreerd en anti-malware scanmogelijkheden biedt. Daarbij wordt gebruikgemaakt van 
+n gecentraliseerde anti-malware engine en database voor elke fysieke host.
+E
+n managementconsole
+Kaspersky Security Center, dat niets extra's kost, is een centrale beheerconsole waarmee de beveiliging van virtuele systemen, fysieke systemen en mobiele apparaten kan worden beheerd.
+Hogere virtualisatiedichtheid
+Omdat Kaspersky Security for Virtualization een agentless oplossing is, worden updatestormen en scanstormen voorkomen, wordt een hogere virtualisatiedichtheid bereikt, is de invloed op de prestaties beperkt en worden oplossingen geboden voor beveiligingsproblemen die door bepaalde agentgebaseerde producten kunnen worden ge
+ntroduceerd.
+Geavanceerde antivirusoplossing
+De bekroonde anti-malware technologie
+n en onge
+venaarde updatefrequentie van Kaspersky beschermen u tegen nieuwe en potenti
+le dreigingen. Een heuristische analyse biedt effectieve bescherming tegen polymorfe malware.
+Eenvoudig te implementeren en beheren
+Snelle implementatie
+Beveiliging wordt geboden door middel van een virtuele appliance die voor alle virtuele systemen op de fysieke server beschikbaar is. Gebruikers die een nieuw virtueel systeem hebben gemaakt, hoeven slechts 
+n kopiebestand naar het systeem te kopi
+ren. De bekroonde anti-malware oplossing van Kaspersky kan het nieuwe virtuele systeem vervolgens automatisch beschermen.
+Flexibele beveiligingsprofielen
+U kunt eenvoudig verschillende beveiligingsinstellingen op verschillende groepen virtuele systemen toepassen. Dit flexibiliteitsniveau helpt de prestaties te verbeteren, omdat u scanfuncties die niet relevant zijn voor een bepaalde toepassing kunt uitsluiten.
+Rapportage
+Gedetailleerde rapporten bieden het IT-team een beter inzicht in gebeurtenissen en voltooide taken, zowel voor fysieke als virtuele systemen.
+Beheer van meerdere Kaspersky-beveiligingsoplossingen
+Met Kaspersky Security Center kunt u ook andere beveiligingsproducten van Kaspersky beheren, zodat een beheerframework ontstaat waarmee in uw volledige IT-omgeving een consistent beveiligingsbeleid kan worden afgedwongen.
+Hoge mate van integratie
+Ondersteuning van VMware vMotion
+De volledige ondersteuning van VMware vMotion biedt u de garantie dat de bescherming door Kaspersky Security for Virtualization niet wordt onderbroken wanneer een werklast van de ene ESXi-host naar de andere wordt verplaatst. Als de nieuwe host over de vereiste licenties beschikt, volgt de bescherming de werklast en blijven alle beveiligingsinstellingen ongewijzigd.
+Integratie met VMware vCenter
+Kaspersky Security for Virtualization ontvangt informatie over virtuele systemen van vCenter, waaronder een overzicht van alle virtuele systemen en relevante parameters. Deze integratie met vCenter vergroot niet alleen de zichtbaarheid voor het IT-team, maar zorgt er ook voor dat nieuwe virtuele systemen automatisch worden beschermd.
+Getest in een scala aan VMware-omgevingen
+Kaspersky Security for Virtualization is ook getest met en compatibel met de volgende systemen:
+- VMware vSphere Distributed Resource Scheduler (DRS);
+- VMware vSphere High Availability (HA).
+Flexibele beveiliging
+Uitschakeling
+De nieuwste antivirustechnologie
+n van Kaspersky detecteren malware om deze vervolgens te blokkeren, uit te schakelen en te verwijderen, en waarschuwen bovendien de IT-beheerders.
+Globale scans
+Routinescans kunnen op alle virtuele systemen worden uitgevoerd op basis van een schema dat u vooraf hebt ingesteld. Omdat gelijktijdige scans van verschillende systemen automatisch worden voorkomen, helpt de toepassing bij een gelijkmatige verdeling van de belasting.
+Scan van virtuele systemen
+Beheerders kunnen on demand bepaalde virtuele systemen (of afzonderlijke bestanden of mappen) scannen. Dit komt met name van pas wanneer het IT-team abnormale activiteit op een specifiek virtueel systeem vermoedt.
+Scans volgen
+Om de effici
+ntie te vergroten, kan de toepassing bestanden die recentelijk zijn gescand overslaan tijdens routinescans.]]></description>
+<categories>
+<category path="antivirus- &amp; beveiligingssoftware">antivirus- &amp; beveiligingssoftware</category>
+</categories>
+<additional>
+<field name="brand">Kaspersky Lab</field>
+<field name="producttype">Kaspersky Security for Virtualization - Server - Crossgrade - 25-49 Vi</field>
+<field name="deliveryCosts">0.00</field>
+<field name="SKU">KL4251XAPTW</field>
+<field name="brand_and_type">Kaspersky Lab KL4251XAPTW</field>
+<field name="stock">Niet op voorraad</field>
+<field name="thumbnailURL">https://www02.cp-static.com/objects/thumb_pic/7/787/1348525133_antivirus-beveiligingssoftware-kaspersky-lab-security-f-virtualization-server-25-49u-3y-cross-eng-dut-kl4251xaptw.jpg</field>
+<field name="deliveryTime">Backorder</field>
+<field name="imageURLlarge">https://www02.cp-static.com/objects/high_pic/7/787/1348525133_antivirus-beveiligingssoftware-kaspersky-lab-security-f-virtualization-server-25-49u-3y-cross-eng-dut-kl4251xaptw.jpg</field>
+<field name="categoryURL">http://www.centralpoint.nl/antivirus-beveiligingssoftware/</field>
+<field name="EAN"></field>
+</additional>
+</product>
+<product>
+<productID>kaspersky lab_kl4251xaqdc</productID>
+<name>Kaspersky Lab Kaspersky Security for Virtualization - Server - 50-99 Virtualserver - (KL4251XAQDC)</name>
+<price currency="EUR">50.82</price>
+<productURL>http://www.centralpoint.nl/tracker/index.php?tt=534_251713_1_&amp;r=http%3A%2F%2Fwww.centralpoint.nl%2Fantivirus-beveiligingssoftware%2Fkaspersky-lab%2Fkaspersky-security-for-virtualization-server-50-99-virtualserver-2-jaar-subscription-digitale-levering-met-download-overheid-european-languages-inclusief-english-dutch-art-kl4251xaqdc</productURL>
+<imageURL>https://www02.cp-static.com/objects/low_pic/8/86c/1348525285_antivirus-beveiligingssoftware-kaspersky-lab-security-f-virtualization-server-50-99u-2y-gov-kl4251xaqdc.jpg</imageURL>
+<description><![CDATA[Kaspersky Security for Virtualization
+Kaspersky Security for Virtualization 
+ built for the unique requirements of virtualised IT environments 
+ delivers award-winning anti-malware protection for virtualised servers, desktops and data centres.
+Kaspersky Security for Virtualization is an agentless anti-malware solution that provides a more efficient way to protect your virtualised infrastructure 
+ with greater performance and less impact on virtualisation density. The application is easy to deploy and includes advanced management features that simplify a wide range of security tasks 
+ across both physical and virtual computing assets.
+With Kaspersky Security for Virtualization, you can benefit from superior protection 
+ for all of your virtual machines 
+ while also improving your system utilisation rates, reducing the burden on your IT administration and security personnel
+ and increasing your overall return on investment (ROI).
+Advanced anti-malware
+Kaspersky
+s award-winning anti-malware engine achieves superior detection rates 
+ to help protect your physical and virtualised computing environment from new and increasingly sophisticated threats.
+Easy to manage
+Kaspersky Security Center 
+ which is available at no additional cost 
+ gives your IT team a single, unified management console that can manage the security of virtual machines, physical machines and mobile devices.
+Supporting business progress
+By making it easier for your team to manage hybrid environments 
+ including virtualised and conventional platforms 
+ Kaspersky Security for Virtualization helps you to introduce virtualisation at a pace that
+s right for your business.
+Improved return on investment (ROI)
+Because Kaspersky Security for Virtualization is an agentless solution, it helps businesses to achieve higher virtualisation density and performance 
+ helping to generate a higher return on investment.
+Superior security for virtualised environments
+Kaspersky Security for Virtualization has been specifically developed for virtualised IT infrastructure:
+- A single, centralised anti-malware solution can protect all virtual machines on a physical server;
+- Kaspersky
+s industry-leading frequency of anti-malware updates helps to minimise vulnerability and protect against new threats;
+- Powerful remediation capabilities disinfect malware;
+- The solution provides agentless protection for virtual machines that run on a wide range of Windows operating systems.
+Reducing costs 
+ by simplifying administration
+Advanced management features help to simplify administration tasks and eliminate security gaps:
+- Instead of having to install and manage protection on every virtual machine, a single instance of Kaspersky Security for Virtualization can protect all virtual machines on a physical server;
+- Physical and virtual endpoints are discovered dynamically;
+- New virtual machines are automatically provided with anti-malware protection 
+ to help eliminate security gaps and misconfigurations;
+- Administrators can adapt security settings to suit different applications and workloads.
+Many of the traditional, agent-based anti-malware products are not well suited to virtualised environments. Virtualisation is all about maximising the utilisation rates for the IT infrastructure 
+ in order to maximise return on investment. However, many agent-based anti-malware products require the antivirus software and signature database to be installed on every virtual machine
+ which partly defeats the object of virtualisation.
+Agent-based disadvantages
+- Duplication of antivirus software and signature database 
+ for every virtual machine 
+ reduces virtualisation density and reduces return on investment (ROI);
+- Duplication of file scanning of the base-line image 
+ reduces overall system performance;
+- When a dormant virtual machine is activated, it may have an out-of-date signature database or un-patched vulnerabilities;
+- 
+Scanning Storms
+ 
+ whereby multiple virtual machines are simultaneously running scans 
+ can adversely affect the performance of the host machine
+ or even cause a crash;
+- 
+Update Storms
+ 
+ whereby multiple virtual machines simultaneously download antivirus updates 
+ can adversely affect the performance of the host machine
+ or cause it to crash.
+Kaspersky
+s agentless solution
+Because Kaspersky Security for Virtualization is an agentless anti-malware solution, it only has to be installed once on a physical server
+ in order to protect all virtual machines on that server.
+- Higher density virtualisation 
+ as there is no duplication of antivirus software and signature database;
+- Improved performance 
+ from higher efficiency scanning;
+- Automatic protection for newly configured virtual machines and dormant virtual machines that are activated;
+- All updates of the anti-malware engine and signature database only need to be performed once per physical server 
+ not once per virtual machine
+ so 
+Update Storms
+ are eliminated;
+- Intelligent, load-balancing mechanisms help to guard against overload and limit the number of concurrent scans
+ so 
+Scanning Storms
+ are prevented.
+Applications inside Kaspersky Security for Virtualization
+- Kaspersky Security for Virtualization;
+- Kaspersky Security Center.]]></description>
+<categories>
+<category path="antivirus- &amp; beveiligingssoftware">antivirus- &amp; beveiligingssoftware</category>
+</categories>
+<additional>
+<field name="brand">Kaspersky Lab</field>
+<field name="producttype">Kaspersky Security for Virtualization - Server - 50-99 Virtualserver -</field>
+<field name="deliveryCosts">0.00</field>
+<field name="SKU">KL4251XAQDC</field>
+<field name="brand_and_type">Kaspersky Lab KL4251XAQDC</field>
+<field name="stock">Niet op voorraad</field>
+<field name="thumbnailURL">https://www02.cp-static.com/objects/thumb_pic/8/86c/1348525285_antivirus-beveiligingssoftware-kaspersky-lab-security-f-virtualization-server-50-99u-2y-gov-kl4251xaqdc.jpg</field>
+<field name="deliveryTime">Backorder</field>
+<field name="imageURLlarge">https://www02.cp-static.com/objects/high_pic/8/86c/1348525285_antivirus-beveiligingssoftware-kaspersky-lab-security-f-virtualization-server-50-99u-2y-gov-kl4251xaqdc.jpg</field>
+<field name="categoryURL">http://www.centralpoint.nl/antivirus-beveiligingssoftware/</field>
+<field name="EAN"></field>
+</additional>
+</product>
+<product>
+<productID>kaspersky lab_kl4251xaqde</productID>
+<name>Kaspersky Lab Kaspersky Security for Virtualization - Server - 50-99 Virtualserver - (KL4251XAQDE)</name>
+<price currency="EUR">50.82</price>
+<productURL>http://www.centralpoint.nl/tracker/index.php?tt=534_251713_1_&amp;r=http%3A%2F%2Fwww.centralpoint.nl%2Fantivirus-beveiligingssoftware%2Fkaspersky-lab%2Fkaspersky-security-for-virtualization-server-50-99-virtualserver-2-jaar-subscription-digitale-levering-met-download-educational-european-languages-inclusief-english-dutch-art-kl4251xa</productURL>
+<imageURL>https://www01.cp-static.com/objects/low_pic/5/536/1348590632_antivirus-beveiligingssoftware-kaspersky-lab-security-f-virtualization-server-50-99u-2y-edu-eng-dut-kl4251xaqde.jpg</imageURL>
+<description><![CDATA[Kaspersky Security for Virtualization
+Het beheren van de beveiliging in een heterogene of hybride IT-omgeving kan een lastige en tijdrovende taak zijn die vaak meerdere consoles en allerlei beheertools vereist.
+Kaspersky Security for Virtualization is een bekroonde anti-malware oplossing voor gevirtualiseerde infrastructuren, inclusief servers, desktops en datacenters. Daarnaast kunt u via 
+n centrale, uniforme beheerconsole de beveiliging beheren van allerlei soorten apparaten, waaronder fysieke servers, virtuele systemen en mobiele apparaten. Hierdoor worden belangrijke beveiligingstaken vereenvoudigd en wordt de zichtbaarheid van beveiligingsproblemen vergroot.
+Omdat Kaspersky Security for Virtualization een agentless toepassing is, zijn de prestaties en consolidatieratio's beter dan bij het gebruik van allerlei traditionele, agentgebaseerde beveiligingsproducten.
+Voordelen
+Gecentraliseerde beveiliging, ontwikkeld voor gevirtualiseerde omgevingen
+Kaspersky Security for Virtualization is een virtuele appliance die met vShield Endpoint van VMware wordt ge
+ntegreerd en anti-malware scanmogelijkheden biedt. Daarbij wordt gebruikgemaakt van 
+n gecentraliseerde anti-malware engine en database voor elke fysieke host.
+E
+n managementconsole
+Kaspersky Security Center, dat niets extra's kost, is een centrale beheerconsole waarmee de beveiliging van virtuele systemen, fysieke systemen en mobiele apparaten kan worden beheerd.
+Hogere virtualisatiedichtheid
+Omdat Kaspersky Security for Virtualization een agentless oplossing is, worden updatestormen en scanstormen voorkomen, wordt een hogere virtualisatiedichtheid bereikt, is de invloed op de prestaties beperkt en worden oplossingen geboden voor beveiligingsproblemen die door bepaalde agentgebaseerde producten kunnen worden ge
+ntroduceerd.
+Geavanceerde antivirusoplossing
+De bekroonde anti-malware technologie
+n en onge
+venaarde updatefrequentie van Kaspersky beschermen u tegen nieuwe en potenti
+le dreigingen. Een heuristische analyse biedt effectieve bescherming tegen polymorfe malware.
+Eenvoudig te implementeren en beheren
+Snelle implementatie
+Beveiliging wordt geboden door middel van een virtuele appliance die voor alle virtuele systemen op de fysieke server beschikbaar is. Gebruikers die een nieuw virtueel systeem hebben gemaakt, hoeven slechts 
+n kopiebestand naar het systeem te kopi
+ren. De bekroonde anti-malware oplossing van Kaspersky kan het nieuwe virtuele systeem vervolgens automatisch beschermen.
+Flexibele beveiligingsprofielen
+U kunt eenvoudig verschillende beveiligingsinstellingen op verschillende groepen virtuele systemen toepassen. Dit flexibiliteitsniveau helpt de prestaties te verbeteren, omdat u scanfuncties die niet relevant zijn voor een bepaalde toepassing kunt uitsluiten.
+Rapportage
+Gedetailleerde rapporten bieden het IT-team een beter inzicht in gebeurtenissen en voltooide taken, zowel voor fysieke als virtuele systemen.
+Beheer van meerdere Kaspersky-beveiligingsoplossingen
+Met Kaspersky Security Center kunt u ook andere beveiligingsproducten van Kaspersky beheren, zodat een beheerframework ontstaat waarmee in uw volledige IT-omgeving een consistent beveiligingsbeleid kan worden afgedwongen.
+Hoge mate van integratie
+Ondersteuning van VMware vMotion
+De volledige ondersteuning van VMware vMotion biedt u de garantie dat de bescherming door Kaspersky Security for Virtualization niet wordt onderbroken wanneer een werklast van de ene ESXi-host naar de andere wordt verplaatst. Als de nieuwe host over de vereiste licenties beschikt, volgt de bescherming de werklast en blijven alle beveiligingsinstellingen ongewijzigd.
+Integratie met VMware vCenter
+Kaspersky Security for Virtualization ontvangt informatie over virtuele systemen van vCenter, waaronder een overzicht van alle virtuele systemen en relevante parameters. Deze integratie met vCenter vergroot niet alleen de zichtbaarheid voor het IT-team, maar zorgt er ook voor dat nieuwe virtuele systemen automatisch worden beschermd.
+Getest in een scala aan VMware-omgevingen
+Kaspersky Security for Virtualization is ook getest met en compatibel met de volgende systemen:
+- VMware vSphere Distributed Resource Scheduler (DRS);
+- VMware vSphere High Availability (HA).
+Flexibele beveiliging
+Uitschakeling
+De nieuwste antivirustechnologie
+n van Kaspersky detecteren malware om deze vervolgens te blokkeren, uit te schakelen en te verwijderen, en waarschuwen bovendien de IT-beheerders.
+Globale scans
+Routinescans kunnen op alle virtuele systemen worden uitgevoerd op basis van een schema dat u vooraf hebt ingesteld. Omdat gelijktijdige scans van verschillende systemen automatisch worden voorkomen, helpt de toepassing bij een gelijkmatige verdeling van de belasting.
+Scan van virtuele systemen
+Beheerders kunnen on demand bepaalde virtuele systemen (of afzonderlijke bestanden of mappen) scannen. Dit komt met name van pas wanneer het IT-team abnormale activiteit op een specifiek virtueel systeem vermoedt.
+Scans volgen
+Om de effici
+ntie te vergroten, kan de toepassing bestanden die recentelijk zijn gescand overslaan tijdens routinescans.]]></description>
+<categories>
+<category path="antivirus- &amp; beveiligingssoftware">antivirus- &amp; beveiligingssoftware</category>
+</categories>
+<additional>
+<field name="brand">Kaspersky Lab</field>
+<field name="producttype">Kaspersky Security for Virtualization - Server - 50-99 Virtualserver -</field>
+<field name="deliveryCosts">0.00</field>
+<field name="SKU">KL4251XAQDE</field>
+<field name="brand_and_type">Kaspersky Lab KL4251XAQDE</field>
+<field name="stock">Niet op voorraad</field>
+<field name="thumbnailURL">https://www01.cp-static.com/objects/thumb_pic/5/536/1348590632_antivirus-beveiligingssoftware-kaspersky-lab-security-f-virtualization-server-50-99u-2y-edu-eng-dut-kl4251xaqde.jpg</field>
+<field name="deliveryTime">Backorder</field>
+<field name="imageURLlarge">https://www01.cp-static.com/objects/high_pic/5/536/1348590632_antivirus-beveiligingssoftware-kaspersky-lab-security-f-virtualization-server-50-99u-2y-edu-eng-dut-kl4251xaqde.jpg</field>
+<field name="categoryURL">http://www.centralpoint.nl/antivirus-beveiligingssoftware/</field>
+<field name="EAN"></field>
+</additional>
+</product>
+<product>
+<productID>kaspersky lab_kl4251xaqdj</productID>
+<name>Kaspersky Lab Kaspersky Security for Virtualization - Server - Renewal - 50-99 Virtu (KL4251XAQDJ)</name>
+<price currency="EUR">50.82</price>
+<productURL>http://www.centralpoint.nl/tracker/index.php?tt=534_251713_1_&amp;r=http%3A%2F%2Fwww.centralpoint.nl%2Fantivirus-beveiligingssoftware%2Fkaspersky-lab%2Fkaspersky-security-for-virtualization-server-renewal-50-99-virtualserver-2-jaar-subscription-digitale-levering-met-download-overheid-european-languages-inclusief-english-dutch-art-kl4</productURL>
+<imageURL>https://www01.cp-static.com/objects/low_pic/9/9c2/1348525324_antivirus-beveiligingssoftware-kaspersky-lab-security-f-virtualization-server-50-99u-2y-gov-rnw-eng-dut-kl4251xaqdj.jpg</imageURL>
+<description><![CDATA[Kaspersky Security for Virtualization
+Het beheren van de beveiliging in een heterogene of hybride IT-omgeving kan een lastige en tijdrovende taak zijn die vaak meerdere consoles en allerlei beheertools vereist.
+Kaspersky Security for Virtualization is een bekroonde anti-malware oplossing voor gevirtualiseerde infrastructuren, inclusief servers, desktops en datacenters. Daarnaast kunt u via 
+n centrale, uniforme beheerconsole de beveiliging beheren van allerlei soorten apparaten, waaronder fysieke servers, virtuele systemen en mobiele apparaten. Hierdoor worden belangrijke beveiligingstaken vereenvoudigd en wordt de zichtbaarheid van beveiligingsproblemen vergroot.
+Omdat Kaspersky Security for Virtualization een agentless toepassing is, zijn de prestaties en consolidatieratio's beter dan bij het gebruik van allerlei traditionele, agentgebaseerde beveiligingsproducten.
+Voordelen
+Gecentraliseerde beveiliging, ontwikkeld voor gevirtualiseerde omgevingen
+Kaspersky Security for Virtualization is een virtuele appliance die met vShield Endpoint van VMware wordt ge
+ntegreerd en anti-malware scanmogelijkheden biedt. Daarbij wordt gebruikgemaakt van 
+n gecentraliseerde anti-malware engine en database voor elke fysieke host.
+E
+n managementconsole
+Kaspersky Security Center, dat niets extra's kost, is een centrale beheerconsole waarmee de beveiliging van virtuele systemen, fysieke systemen en mobiele apparaten kan worden beheerd.
+Hogere virtualisatiedichtheid
+Omdat Kaspersky Security for Virtualization een agentless oplossing is, worden updatestormen en scanstormen voorkomen, wordt een hogere virtualisatiedichtheid bereikt, is de invloed op de prestaties beperkt en worden oplossingen geboden voor beveiligingsproblemen die door bepaalde agentgebaseerde producten kunnen worden ge
+ntroduceerd.
+Geavanceerde antivirusoplossing
+De bekroonde anti-malware technologie
+n en onge
+venaarde updatefrequentie van Kaspersky beschermen u tegen nieuwe en potenti
+le dreigingen. Een heuristische analyse biedt effectieve bescherming tegen polymorfe malware.
+Eenvoudig te implementeren en beheren
+Snelle implementatie
+Beveiliging wordt geboden door middel van een virtuele appliance die voor alle virtuele systemen op de fysieke server beschikbaar is. Gebruikers die een nieuw virtueel systeem hebben gemaakt, hoeven slechts 
+n kopiebestand naar het systeem te kopi
+ren. De bekroonde anti-malware oplossing van Kaspersky kan het nieuwe virtuele systeem vervolgens automatisch beschermen.
+Flexibele beveiligingsprofielen
+U kunt eenvoudig verschillende beveiligingsinstellingen op verschillende groepen virtuele systemen toepassen. Dit flexibiliteitsniveau helpt de prestaties te verbeteren, omdat u scanfuncties die niet relevant zijn voor een bepaalde toepassing kunt uitsluiten.
+Rapportage
+Gedetailleerde rapporten bieden het IT-team een beter inzicht in gebeurtenissen en voltooide taken, zowel voor fysieke als virtuele systemen.
+Beheer van meerdere Kaspersky-beveiligingsoplossingen
+Met Kaspersky Security Center kunt u ook andere beveiligingsproducten van Kaspersky beheren, zodat een beheerframework ontstaat waarmee in uw volledige IT-omgeving een consistent beveiligingsbeleid kan worden afgedwongen.
+Hoge mate van integratie
+Ondersteuning van VMware vMotion
+De volledige ondersteuning van VMware vMotion biedt u de garantie dat de bescherming door Kaspersky Security for Virtualization niet wordt onderbroken wanneer een werklast van de ene ESXi-host naar de andere wordt verplaatst. Als de nieuwe host over de vereiste licenties beschikt, volgt de bescherming de werklast en blijven alle beveiligingsinstellingen ongewijzigd.
+Integratie met VMware vCenter
+Kaspersky Security for Virtualization ontvangt informatie over virtuele systemen van vCenter, waaronder een overzicht van alle virtuele systemen en relevante parameters. Deze integratie met vCenter vergroot niet alleen de zichtbaarheid voor het IT-team, maar zorgt er ook voor dat nieuwe virtuele systemen automatisch worden beschermd.
+Getest in een scala aan VMware-omgevingen
+Kaspersky Security for Virtualization is ook getest met en compatibel met de volgende systemen:
+- VMware vSphere Distributed Resource Scheduler (DRS);
+- VMware vSphere High Availability (HA).
+Flexibele beveiliging
+Uitschakeling
+De nieuwste antivirustechnologie
+n van Kaspersky detecteren malware om deze vervolgens te blokkeren, uit te schakelen en te verwijderen, en waarschuwen bovendien de IT-beheerders.
+Globale scans
+Routinescans kunnen op alle virtuele systemen worden uitgevoerd op basis van een schema dat u vooraf hebt ingesteld. Omdat gelijktijdige scans van verschillende systemen automatisch worden voorkomen, helpt de toepassing bij een gelijkmatige verdeling van de belasting.
+Scan van virtuele systemen
+Beheerders kunnen on demand bepaalde virtuele systemen (of afzonderlijke bestanden of mappen) scannen. Dit komt met name van pas wanneer het IT-team abnormale activiteit op een specifiek virtueel systeem vermoedt.
+Scans volgen
+Om de effici
+ntie te vergroten, kan de toepassing bestanden die recentelijk zijn gescand overslaan tijdens routinescans.]]></description>
+<categories>
+<category path="antivirus- &amp; beveiligingssoftware">antivirus- &amp; beveiligingssoftware</category>
+</categories>
+<additional>
+<field name="brand">Kaspersky Lab</field>
+<field name="producttype">Kaspersky Security for Virtualization - Server - Renewal - 50-99 Virtu</field>
+<field name="deliveryCosts">0.00</field>
+<field name="SKU">KL4251XAQDJ</field>
+<field name="brand_and_type">Kaspersky Lab KL4251XAQDJ</field>
+<field name="stock">Niet op voorraad</field>
+<field name="thumbnailURL">https://www01.cp-static.com/objects/thumb_pic/9/9c2/1348525324_antivirus-beveiligingssoftware-kaspersky-lab-security-f-virtualization-server-50-99u-2y-gov-rnw-eng-dut-kl4251xaqdj.jpg</field>
+<field name="deliveryTime">Backorder</field>
+<field name="imageURLlarge">https://www01.cp-static.com/objects/high_pic/9/9c2/1348525324_antivirus-beveiligingssoftware-kaspersky-lab-security-f-virtualization-server-50-99u-2y-gov-rnw-eng-dut-kl4251xaqdj.jpg</field>
+<field name="categoryURL">http://www.centralpoint.nl/antivirus-beveiligingssoftware/</field>
+<field name="EAN"></field>
+</additional>
+</product>
+<product>
+<productID>kaspersky lab_kl4251xaqdq</productID>
+<name>Kaspersky Lab Kaspersky Security for Virtualization - Server - Renewal - 50-99 Virtu (KL4251XAQDQ)</name>
+<price currency="EUR">50.82</price>
+<productURL>http://www.centralpoint.nl/tracker/index.php?tt=534_251713_1_&amp;r=http%3A%2F%2Fwww.centralpoint.nl%2Fantivirus-beveiligingssoftware%2Fkaspersky-lab%2Fkaspersky-security-for-virtualization-server-renewal-50-99-virtualserver-2-jaar-subscription-digitale-levering-met-download-educational-european-languages-inclusief-english-dutch-art-</productURL>
+<imageURL>https://www02.cp-static.com/objects/low_pic/e/e4c/1348590671_antivirus-beveiligingssoftware-kaspersky-lab-security-f-virtualization-server-50-99u-2y-edu-rnw-kl4251xaqdq.jpg</imageURL>
+<description><![CDATA[Kaspersky Security for Virtualization
+Kaspersky Security for Virtualization 
+ built for the unique requirements of virtualised IT environments 
+ delivers award-winning anti-malware protection for virtualised servers, desktops and data centres.
+Kaspersky Security for Virtualization is an agentless anti-malware solution that provides a more efficient way to protect your virtualised infrastructure 
+ with greater performance and less impact on virtualisation density. The application is easy to deploy and includes advanced management features that simplify a wide range of security tasks 
+ across both physical and virtual computing assets.
+With Kaspersky Security for Virtualization, you can benefit from superior protection 
+ for all of your virtual machines 
+ while also improving your system utilisation rates, reducing the burden on your IT administration and security personnel
+ and increasing your overall return on investment (ROI).
+Advanced anti-malware
+Kaspersky
+s award-winning anti-malware engine achieves superior detection rates 
+ to help protect your physical and virtualised computing environment from new and increasingly sophisticated threats.
+Easy to manage
+Kaspersky Security Center 
+ which is available at no additional cost 
+ gives your IT team a single, unified management console that can manage the security of virtual machines, physical machines and mobile devices.
+Supporting business progress
+By making it easier for your team to manage hybrid environments 
+ including virtualised and conventional platforms 
+ Kaspersky Security for Virtualization helps you to introduce virtualisation at a pace that
+s right for your business.
+Improved return on investment (ROI)
+Because Kaspersky Security for Virtualization is an agentless solution, it helps businesses to achieve higher virtualisation density and performance 
+ helping to generate a higher return on investment.
+Superior security for virtualised environments
+Kaspersky Security for Virtualization has been specifically developed for virtualised IT infrastructure:
+- A single, centralised anti-malware solution can protect all virtual machines on a physical server;
+- Kaspersky
+s industry-leading frequency of anti-malware updates helps to minimise vulnerability and protect against new threats;
+- Powerful remediation capabilities disinfect malware;
+- The solution provides agentless protection for virtual machines that run on a wide range of Windows operating systems.
+Reducing costs 
+ by simplifying administration
+Advanced management features help to simplify administration tasks and eliminate security gaps:
+- Instead of having to install and manage protection on every virtual machine, a single instance of Kaspersky Security for Virtualization can protect all virtual machines on a physical server;
+- Physical and virtual endpoints are discovered dynamically;
+- New virtual machines are automatically provided with anti-malware protection 
+ to help eliminate security gaps and misconfigurations;
+- Administrators can adapt security settings to suit different applications and workloads.
+Many of the traditional, agent-based anti-malware products are not well suited to virtualised environments. Virtualisation is all about maximising the utilisation rates for the IT infrastructure 
+ in order to maximise return on investment. However, many agent-based anti-malware products require the antivirus software and signature database to be installed on every virtual machine
+ which partly defeats the object of virtualisation.
+Agent-based disadvantages
+- Duplication of antivirus software and signature database 
+ for every virtual machine 
+ reduces virtualisation density and reduces return on investment (ROI);
+- Duplication of file scanning of the base-line image 
+ reduces overall system performance;
+- When a dormant virtual machine is activated, it may have an out-of-date signature database or un-patched vulnerabilities;
+- 
+Scanning Storms
+ 
+ whereby multiple virtual machines are simultaneously running scans 
+ can adversely affect the performance of the host machine
+ or even cause a crash;
+- 
+Update Storms
+ 
+ whereby multiple virtual machines simultaneously download antivirus updates 
+ can adversely affect the performance of the host machine
+ or cause it to crash.
+Kaspersky
+s agentless solution
+Because Kaspersky Security for Virtualization is an agentless anti-malware solution, it only has to be installed once on a physical server
+ in order to protect all virtual machines on that server.
+- Higher density virtualisation 
+ as there is no duplication of antivirus software and signature database;
+- Improved performance 
+ from higher efficiency scanning;
+- Automatic protection for newly configured virtual machines and dormant virtual machines that are activated;
+- All updates of the anti-malware engine and signature database only need to be performed once per physical server 
+ not once per virtual machine
+ so 
+Update Storms
+ are eliminated;
+- Intelligent, load-balancing mechanisms help to guard against overload and limit the number of concurrent scans
+ so 
+Scanning Storms
+ are prevented.
+Applications inside Kaspersky Security for Virtualization
+- Kaspersky Security for Virtualization;
+- Kaspersky Security Center.]]></description>
+<categories>
+<category path="antivirus- &amp; beveiligingssoftware">antivirus- &amp; beveiligingssoftware</category>
+</categories>
+<additional>
+<field name="brand">Kaspersky Lab</field>
+<field name="producttype">Kaspersky Security for Virtualization - Server - Renewal - 50-99 Virtu</field>
+<field name="deliveryCosts">0.00</field>
+<field name="SKU">KL4251XAQDQ</field>
+<field name="brand_and_type">Kaspersky Lab KL4251XAQDQ</field>
+<field name="stock">Niet op voorraad</field>
+<field name="thumbnailURL">https://www02.cp-static.com/objects/thumb_pic/e/e4c/1348590671_antivirus-beveiligingssoftware-kaspersky-lab-security-f-virtualization-server-50-99u-2y-edu-rnw-kl4251xaqdq.jpg</field>
+<field name="deliveryTime">Backorder</field>
+<field name="imageURLlarge">https://www02.cp-static.com/objects/high_pic/e/e4c/1348590671_antivirus-beveiligingssoftware-kaspersky-lab-security-f-virtualization-server-50-99u-2y-edu-rnw-kl4251xaqdq.jpg</field>
+<field name="categoryURL">http://www.centralpoint.nl/antivirus-beveiligingssoftware/</field>
+<field name="EAN"></field>
+</additional>
+</product>
+<product>
+<productID>kaspersky lab_kl4251xaqdr</productID>
+<name>Kaspersky Lab Kaspersky Security for Virtualization - Server - Renewal - 50-99 Virtu (KL4251XAQDR)</name>
+<price currency="EUR">68.97</price>
+<productURL>http://www.centralpoint.nl/tracker/index.php?tt=534_251713_1_&amp;r=http%3A%2F%2Fwww.centralpoint.nl%2Fantivirus-beveiligingssoftware%2Fkaspersky-lab%2Fkaspersky-security-for-virtualization-server-renewal-50-99-virtualserver-2-jaar-subscription-digitale-levering-met-download-european-languages-inclusief-english-dutch-art-kl4251xaqdr-</productURL>
+<imageURL>https://www01.cp-static.com/objects/low_pic/2/294/1348525174_antivirus-beveiligingssoftware-kaspersky-lab-security-f-virtualization-server-50-99u-2y-rnw-eng-dut-kl4251xaqdr.jpg</imageURL>
+<description><![CDATA[Kaspersky Security for Virtualization
+Het beheren van de beveiliging in een heterogene of hybride IT-omgeving kan een lastige en tijdrovende taak zijn die vaak meerdere consoles en allerlei beheertools vereist.
+Kaspersky Security for Virtualization is een bekroonde anti-malware oplossing voor gevirtualiseerde infrastructuren, inclusief servers, desktops en datacenters. Daarnaast kunt u via 
+n centrale, uniforme beheerconsole de beveiliging beheren van allerlei soorten apparaten, waaronder fysieke servers, virtuele systemen en mobiele apparaten. Hierdoor worden belangrijke beveiligingstaken vereenvoudigd en wordt de zichtbaarheid van beveiligingsproblemen vergroot.
+Omdat Kaspersky Security for Virtualization een agentless toepassing is, zijn de prestaties en consolidatieratio's beter dan bij het gebruik van allerlei traditionele, agentgebaseerde beveiligingsproducten.
+Voordelen
+Gecentraliseerde beveiliging, ontwikkeld voor gevirtualiseerde omgevingen
+Kaspersky Security for Virtualization is een virtuele appliance die met vShield Endpoint van VMware wordt ge
+ntegreerd en anti-malware scanmogelijkheden biedt. Daarbij wordt gebruikgemaakt van 
+n gecentraliseerde anti-malware engine en database voor elke fysieke host.
+E
+n managementconsole
+Kaspersky Security Center, dat niets extra's kost, is een centrale beheerconsole waarmee de beveiliging van virtuele systemen, fysieke systemen en mobiele apparaten kan worden beheerd.
+Hogere virtualisatiedichtheid
+Omdat Kaspersky Security for Virtualization een agentless oplossing is, worden updatestormen en scanstormen voorkomen, wordt een hogere virtualisatiedichtheid bereikt, is de invloed op de prestaties beperkt en worden oplossingen geboden voor beveiligingsproblemen die door bepaalde agentgebaseerde producten kunnen worden ge
+ntroduceerd.
+Geavanceerde antivirusoplossing
+De bekroonde anti-malware technologie
+n en onge
+venaarde updatefrequentie van Kaspersky beschermen u tegen nieuwe en potenti
+le dreigingen. Een heuristische analyse biedt effectieve bescherming tegen polymorfe malware.
+Eenvoudig te implementeren en beheren
+Snelle implementatie
+Beveiliging wordt geboden door middel van een virtuele appliance die voor alle virtuele systemen op de fysieke server beschikbaar is. Gebruikers die een nieuw virtueel systeem hebben gemaakt, hoeven slechts 
+n kopiebestand naar het systeem te kopi
+ren. De bekroonde anti-malware oplossing van Kaspersky kan het nieuwe virtuele systeem vervolgens automatisch beschermen.
+Flexibele beveiligingsprofielen
+U kunt eenvoudig verschillende beveiligingsinstellingen op verschillende groepen virtuele systemen toepassen. Dit flexibiliteitsniveau helpt de prestaties te verbeteren, omdat u scanfuncties die niet relevant zijn voor een bepaalde toepassing kunt uitsluiten.
+Rapportage
+Gedetailleerde rapporten bieden het IT-team een beter inzicht in gebeurtenissen en voltooide taken, zowel voor fysieke als virtuele systemen.
+Beheer van meerdere Kaspersky-beveiligingsoplossingen
+Met Kaspersky Security Center kunt u ook andere beveiligingsproducten van Kaspersky beheren, zodat een beheerframework ontstaat waarmee in uw volledige IT-omgeving een consistent beveiligingsbeleid kan worden afgedwongen.
+Hoge mate van integratie
+Ondersteuning van VMware vMotion
+De volledige ondersteuning van VMware vMotion biedt u de garantie dat de bescherming door Kaspersky Security for Virtualization niet wordt onderbroken wanneer een werklast van de ene ESXi-host naar de andere wordt verplaatst. Als de nieuwe host over de vereiste licenties beschikt, volgt de bescherming de werklast en blijven alle beveiligingsinstellingen ongewijzigd.
+Integratie met VMware vCenter
+Kaspersky Security for Virtualization ontvangt informatie over virtuele systemen van vCenter, waaronder een overzicht van alle virtuele systemen en relevante parameters. Deze integratie met vCenter vergroot niet alleen de zichtbaarheid voor het IT-team, maar zorgt er ook voor dat nieuwe virtuele systemen automatisch worden beschermd.
+Getest in een scala aan VMware-omgevingen
+Kaspersky Security for Virtualization is ook getest met en compatibel met de volgende systemen:
+- VMware vSphere Distributed Resource Scheduler (DRS);
+- VMware vSphere High Availability (HA).
+Flexibele beveiliging
+Uitschakeling
+De nieuwste antivirustechnologie
+n van Kaspersky detecteren malware om deze vervolgens te blokkeren, uit te schakelen en te verwijderen, en waarschuwen bovendien de IT-beheerders.
+Globale scans
+Routinescans kunnen op alle virtuele systemen worden uitgevoerd op basis van een schema dat u vooraf hebt ingesteld. Omdat gelijktijdige scans van verschillende systemen automatisch worden voorkomen, helpt de toepassing bij een gelijkmatige verdeling van de belasting.
+Scan van virtuele systemen
+Beheerders kunnen on demand bepaalde virtuele systemen (of afzonderlijke bestanden of mappen) scannen. Dit komt met name van pas wanneer het IT-team abnormale activiteit op een specifiek virtueel systeem vermoedt.
+Scans volgen
+Om de effici
+ntie te vergroten, kan de toepassing bestanden die recentelijk zijn gescand overslaan tijdens routinescans.]]></description>
+<categories>
+<category path="antivirus- &amp; beveiligingssoftware">antivirus- &amp; beveiligingssoftware</category>
+</categories>
+<additional>
+<field name="brand">Kaspersky Lab</field>
+<field name="producttype">Kaspersky Security for Virtualization - Server - Renewal - 50-99 Virtu</field>
+<field name="deliveryCosts">0.00</field>
+<field name="SKU">KL4251XAQDR</field>
+<field name="brand_and_type">Kaspersky Lab KL4251XAQDR</field>
+<field name="stock">Niet op voorraad</field>
+<field name="thumbnailURL">https://www01.cp-static.com/objects/thumb_pic/2/294/1348525174_antivirus-beveiligingssoftware-kaspersky-lab-security-f-virtualization-server-50-99u-2y-rnw-eng-dut-kl4251xaqdr.jpg</field>
+<field name="deliveryTime">Backorder</field>
+<field name="imageURLlarge">https://www01.cp-static.com/objects/high_pic/2/294/1348525174_antivirus-beveiligingssoftware-kaspersky-lab-security-f-virtualization-server-50-99u-2y-rnw-eng-dut-kl4251xaqdr.jpg</field>
+<field name="categoryURL">http://www.centralpoint.nl/antivirus-beveiligingssoftware/</field>
+<field name="EAN"></field>
+</additional>
+</product>
+<product>
+<productID>kaspersky lab_kl4251xaqds</productID>
+<name>Kaspersky Lab Kaspersky Security for Virtualization - Server - 50-99 Virtualserver - (KL4251XAQDS)</name>
+<price currency="EUR">95.59</price>
+<productURL>http://www.centralpoint.nl/tracker/index.php?tt=534_251713_1_&amp;r=http%3A%2F%2Fwww.centralpoint.nl%2Fantivirus-beveiligingssoftware%2Fkaspersky-lab%2Fkaspersky-security-for-virtualization-server-50-99-virtualserver-2-jaar-subscription-digitale-levering-met-download-european-languages-inclusief-english-dutch-art-kl4251xaqds-num-1412</productURL>
+<imageURL>https://www01.cp-static.com/objects/low_pic/9/905/1348525096_antivirus-beveiligingssoftware-kaspersky-lab-security-f-virtualization-server-50-99u-2y-base-kl4251xaqds.jpg</imageURL>
+<description><![CDATA[Kaspersky Security for Virtualization
+Kaspersky Security for Virtualization 
+ built for the unique requirements of virtualised IT environments 
+ delivers award-winning anti-malware protection for virtualised servers, desktops and data centres.
+Kaspersky Security for Virtualization is an agentless anti-malware solution that provides a more efficient way to protect your virtualised infrastructure 
+ with greater performance and less impact on virtualisation density. The application is easy to deploy and includes advanced management features that simplify a wide range of security tasks 
+ across both physical and virtual computing assets.
+With Kaspersky Security for Virtualization, you can benefit from superior protection 
+ for all of your virtual machines 
+ while also improving your system utilisation rates, reducing the burden on your IT administration and security personnel
+ and increasing your overall return on investment (ROI).
+Advanced anti-malware
+Kaspersky
+s award-winning anti-malware engine achieves superior detection rates 
+ to help protect your physical and virtualised computing environment from new and increasingly sophisticated threats.
+Easy to manage
+Kaspersky Security Center 
+ which is available at no additional cost 
+ gives your IT team a single, unified management console that can manage the security of virtual machines, physical machines and mobile devices.
+Supporting business progress
+By making it easier for your team to manage hybrid environments 
+ including virtualised and conventional platforms 
+ Kaspersky Security for Virtualization helps you to introduce virtualisation at a pace that
+s right for your business.
+Improved return on investment (ROI)
+Because Kaspersky Security for Virtualization is an agentless solution, it helps businesses to achieve higher virtualisation density and performance 
+ helping to generate a higher return on investment.
+Superior security for virtualised environments
+Kaspersky Security for Virtualization has been specifically developed for virtualised IT infrastructure:
+- A single, centralised anti-malware solution can protect all virtual machines on a physical server;
+- Kaspersky
+s industry-leading frequency of anti-malware updates helps to minimise vulnerability and protect against new threats;
+- Powerful remediation capabilities disinfect malware;
+- The solution provides agentless protection for virtual machines that run on a wide range of Windows operating systems.
+Reducing costs 
+ by simplifying administration
+Advanced management features help to simplify administration tasks and eliminate security gaps:
+- Instead of having to install and manage protection on every virtual machine, a single instance of Kaspersky Security for Virtualization can protect all virtual machines on a physical server;
+- Physical and virtual endpoints are discovered dynamically;
+- New virtual machines are automatically provided with anti-malware protection 
+ to help eliminate security gaps and misconfigurations;
+- Administrators can adapt security settings to suit different applications and workloads.
+Many of the traditional, agent-based anti-malware products are not well suited to virtualised environments. Virtualisation is all about maximising the utilisation rates for the IT infrastructure 
+ in order to maximise return on investment. However, many agent-based anti-malware products require the antivirus software and signature database to be installed on every virtual machine
+ which partly defeats the object of virtualisation.
+Agent-based disadvantages
+- Duplication of antivirus software and signature database 
+ for every virtual machine 
+ reduces virtualisation density and reduces return on investment (ROI);
+- Duplication of file scanning of the base-line image 
+ reduces overall system performance;
+- When a dormant virtual machine is activated, it may have an out-of-date signature database or un-patched vulnerabilities;
+- 
+Scanning Storms
+ 
+ whereby multiple virtual machines are simultaneously running scans 
+ can adversely affect the performance of the host machine
+ or even cause a crash;
+- 
+Update Storms
+ 
+ whereby multiple virtual machines simultaneously download antivirus updates 
+ can adversely affect the performance of the host machine
+ or cause it to crash.
+Kaspersky
+s agentless solution
+Because Kaspersky Security for Virtualization is an agentless anti-malware solution, it only has to be installed once on a physical server
+ in order to protect all virtual machines on that server.
+- Higher density virtualisation 
+ as there is no duplication of antivirus software and signature database;
+- Improved performance 
+ from higher efficiency scanning;
+- Automatic protection for newly configured virtual machines and dormant virtual machines that are activated;
+- All updates of the anti-malware engine and signature database only need to be performed once per physical server 
+ not once per virtual machine
+ so 
+Update Storms
+ are eliminated;
+- Intelligent, load-balancing mechanisms help to guard against overload and limit the number of concurrent scans
+ so 
+Scanning Storms
+ are prevented.
+Applications inside Kaspersky Security for Virtualization
+- Kaspersky Security for Virtualization;
+- Kaspersky Security Center.]]></description>
+<categories>
+<category path="antivirus- &amp; beveiligingssoftware">antivirus- &amp; beveiligingssoftware</category>
+</categories>
+<additional>
+<field name="brand">Kaspersky Lab</field>
+<field name="producttype">Kaspersky Security for Virtualization - Server - 50-99 Virtualserver -</field>
+<field name="deliveryCosts">0.00</field>
+<field name="SKU">KL4251XAQDS</field>
+<field name="brand_and_type">Kaspersky Lab KL4251XAQDS</field>
+<field name="stock">Niet op voorraad</field>
+<field name="thumbnailURL">https://www01.cp-static.com/objects/thumb_pic/9/905/1348525096_antivirus-beveiligingssoftware-kaspersky-lab-security-f-virtualization-server-50-99u-2y-base-kl4251xaqds.jpg</field>
+<field name="deliveryTime">Backorder</field>
+<field name="imageURLlarge">https://www01.cp-static.com/objects/high_pic/9/905/1348525096_antivirus-beveiligingssoftware-kaspersky-lab-security-f-virtualization-server-50-99u-2y-base-kl4251xaqds.jpg</field>
+<field name="categoryURL">http://www.centralpoint.nl/antivirus-beveiligingssoftware/</field>
+<field name="EAN"></field>
+</additional>
+</product>
+<product>
+<productID>kaspersky lab_kl4251xaqdw</productID>
+<name>Kaspersky Lab Kaspersky Security for Virtualization - Server - Crossgrade - 50-99 Vi (KL4251XAQDW)</name>
+<price currency="EUR">68.97</price>
+<productURL>http://www.centralpoint.nl/tracker/index.php?tt=534_251713_1_&amp;r=http%3A%2F%2Fwww.centralpoint.nl%2Fantivirus-beveiligingssoftware%2Fkaspersky-lab%2Fkaspersky-security-for-virtualization-server-crossgrade-50-99-virtualserver-2-jaar-subscription-digitale-levering-met-download-european-languages-inclusief-english-dutch-art-kl4251xaq</productURL>
+<imageURL>https://www02.cp-static.com/objects/low_pic/5/5a4/1348525135_antivirus-beveiligingssoftware-kaspersky-lab-security-f-virtualization-server-50-99u-2y-cross-eng-dut-kl4251xaqdw.jpg</imageURL>
+<description><![CDATA[Kaspersky Security for Virtualization
+Het beheren van de beveiliging in een heterogene of hybride IT-omgeving kan een lastige en tijdrovende taak zijn die vaak meerdere consoles en allerlei beheertools vereist.
+Kaspersky Security for Virtualization is een bekroonde anti-malware oplossing voor gevirtualiseerde infrastructuren, inclusief servers, desktops en datacenters. Daarnaast kunt u via 
+n centrale, uniforme beheerconsole de beveiliging beheren van allerlei soorten apparaten, waaronder fysieke servers, virtuele systemen en mobiele apparaten. Hierdoor worden belangrijke beveiligingstaken vereenvoudigd en wordt de zichtbaarheid van beveiligingsproblemen vergroot.
+Omdat Kaspersky Security for Virtualization een agentless toepassing is, zijn de prestaties en consolidatieratio's beter dan bij het gebruik van allerlei traditionele, agentgebaseerde beveiligingsproducten.
+Voordelen
+Gecentraliseerde beveiliging, ontwikkeld voor gevirtualiseerde omgevingen
+Kaspersky Security for Virtualization is een virtuele appliance die met vShield Endpoint van VMware wordt ge
+ntegreerd en anti-malware scanmogelijkheden biedt. Daarbij wordt gebruikgemaakt van 
+n gecentraliseerde anti-malware engine en database voor elke fysieke host.
+E
+n managementconsole
+Kaspersky Security Center, dat niets extra's kost, is een centrale beheerconsole waarmee de beveiliging van virtuele systemen, fysieke systemen en mobiele apparaten kan worden beheerd.
+Hogere virtualisatiedichtheid
+Omdat Kaspersky Security for Virtualization een agentless oplossing is, worden updatestormen en scanstormen voorkomen, wordt een hogere virtualisatiedichtheid bereikt, is de invloed op de prestaties beperkt en worden oplossingen geboden voor beveiligingsproblemen die door bepaalde agentgebaseerde producten kunnen worden ge
+ntroduceerd.
+Geavanceerde antivirusoplossing
+De bekroonde anti-malware technologie
+n en onge
+venaarde updatefrequentie van Kaspersky beschermen u tegen nieuwe en potenti
+le dreigingen. Een heuristische analyse biedt effectieve bescherming tegen polymorfe malware.
+Eenvoudig te implementeren en beheren
+Snelle implementatie
+Beveiliging wordt geboden door middel van een virtuele appliance die voor alle virtuele systemen op de fysieke server beschikbaar is. Gebruikers die een nieuw virtueel systeem hebben gemaakt, hoeven slechts 
+n kopiebestand naar het systeem te kopi
+ren. De bekroonde anti-malware oplossing van Kaspersky kan het nieuwe virtuele systeem vervolgens automatisch beschermen.
+Flexibele beveiligingsprofielen
+U kunt eenvoudig verschillende beveiligingsinstellingen op verschillende groepen virtuele systemen toepassen. Dit flexibiliteitsniveau helpt de prestaties te verbeteren, omdat u scanfuncties die niet relevant zijn voor een bepaalde toepassing kunt uitsluiten.
+Rapportage
+Gedetailleerde rapporten bieden het IT-team een beter inzicht in gebeurtenissen en voltooide taken, zowel voor fysieke als virtuele systemen.
+Beheer van meerdere Kaspersky-beveiligingsoplossingen
+Met Kaspersky Security Center kunt u ook andere beveiligingsproducten van Kaspersky beheren, zodat een beheerframework ontstaat waarmee in uw volledige IT-omgeving een consistent beveiligingsbeleid kan worden afgedwongen.
+Hoge mate van integratie
+Ondersteuning van VMware vMotion
+De volledige ondersteuning van VMware vMotion biedt u de garantie dat de bescherming door Kaspersky Security for Virtualization niet wordt onderbroken wanneer een werklast van de ene ESXi-host naar de andere wordt verplaatst. Als de nieuwe host over de vereiste licenties beschikt, volgt de bescherming de werklast en blijven alle beveiligingsinstellingen ongewijzigd.
+Integratie met VMware vCenter
+Kaspersky Security for Virtualization ontvangt informatie over virtuele systemen van vCenter, waaronder een overzicht van alle virtuele systemen en relevante parameters. Deze integratie met vCenter vergroot niet alleen de zichtbaarheid voor het IT-team, maar zorgt er ook voor dat nieuwe virtuele systemen automatisch worden beschermd.
+Getest in een scala aan VMware-omgevingen
+Kaspersky Security for Virtualization is ook getest met en compatibel met de volgende systemen:
+- VMware vSphere Distributed Resource Scheduler (DRS);
+- VMware vSphere High Availability (HA).
+Flexibele beveiliging
+Uitschakeling
+De nieuwste antivirustechnologie
+n van Kaspersky detecteren malware om deze vervolgens te blokkeren, uit te schakelen en te verwijderen, en waarschuwen bovendien de IT-beheerders.
+Globale scans
+Routinescans kunnen op alle virtuele systemen worden uitgevoerd op basis van een schema dat u vooraf hebt ingesteld. Omdat gelijktijdige scans van verschillende systemen automatisch worden voorkomen, helpt de toepassing bij een gelijkmatige verdeling van de belasting.
+Scan van virtuele systemen
+Beheerders kunnen on demand bepaalde virtuele systemen (of afzonderlijke bestanden of mappen) scannen. Dit komt met name van pas wanneer het IT-team abnormale activiteit op een specifiek virtueel systeem vermoedt.
+Scans volgen
+Om de effici
+ntie te vergroten, kan de toepassing bestanden die recentelijk zijn gescand overslaan tijdens routinescans.]]></description>
+<categories>
+<category path="antivirus- &amp; beveiligingssoftware">antivirus- &amp; beveiligingssoftware</category>
+</categories>
+<additional>
+<field name="brand">Kaspersky Lab</field>
+<field name="producttype">Kaspersky Security for Virtualization - Server - Crossgrade - 50-99 Vi</field>
+<field name="deliveryCosts">0.00</field>
+<field name="SKU">KL4251XAQDW</field>
+<field name="brand_and_type">Kaspersky Lab KL4251XAQDW</field>
+<field name="stock">Niet op voorraad</field>
+<field name="thumbnailURL">https://www02.cp-static.com/objects/thumb_pic/5/5a4/1348525135_antivirus-beveiligingssoftware-kaspersky-lab-security-f-virtualization-server-50-99u-2y-cross-eng-dut-kl4251xaqdw.jpg</field>
+<field name="deliveryTime">Backorder</field>
+<field name="imageURLlarge">https://www02.cp-static.com/objects/high_pic/5/5a4/1348525135_antivirus-beveiligingssoftware-kaspersky-lab-security-f-virtualization-server-50-99u-2y-cross-eng-dut-kl4251xaqdw.jpg</field>
+<field name="categoryURL">http://www.centralpoint.nl/antivirus-beveiligingssoftware/</field>
+<field name="EAN"></field>
+</additional>
+</product>
+<product>
+<productID>kaspersky lab_kl4251xaqfc</productID>
+<name>Kaspersky Lab Kaspersky Security for Virtualization - Server - 50-99 Virtualserver - (KL4251XAQFC)</name>
+<price currency="EUR">35.09</price>
+<productURL>http://www.centralpoint.nl/tracker/index.php?tt=534_251713_1_&amp;r=http%3A%2F%2Fwww.centralpoint.nl%2Fantivirus-beveiligingssoftware%2Fkaspersky-lab%2Fkaspersky-security-for-virtualization-server-50-99-virtualserver-1-jaar-subscription-digitale-levering-met-download-overheid-european-languages-inclusief-english-dutch-art-kl4251xaqfc</productURL>
+<imageURL>https://www01.cp-static.com/objects/low_pic/7/717/1348525284_antivirus-beveiligingssoftware-kaspersky-lab-security-f-virtualization-server-50-99u-1y-gov-kl4251xaqfc.jpg</imageURL>
+<description><![CDATA[Kaspersky Security for Virtualization
+Kaspersky Security for Virtualization 
+ built for the unique requirements of virtualised IT environments 
+ delivers award-winning anti-malware protection for virtualised servers, desktops and data centres.
+Kaspersky Security for Virtualization is an agentless anti-malware solution that provides a more efficient way to protect your virtualised infrastructure 
+ with greater performance and less impact on virtualisation density. The application is easy to deploy and includes advanced management features that simplify a wide range of security tasks 
+ across both physical and virtual computing assets.
+With Kaspersky Security for Virtualization, you can benefit from superior protection 
+ for all of your virtual machines 
+ while also improving your system utilisation rates, reducing the burden on your IT administration and security personnel
+ and increasing your overall return on investment (ROI).
+Advanced anti-malware
+Kaspersky
+s award-winning anti-malware engine achieves superior detection rates 
+ to help protect your physical and virtualised computing environment from new and increasingly sophisticated threats.
+Easy to manage
+Kaspersky Security Center 
+ which is available at no additional cost 
+ gives your IT team a single, unified management console that can manage the security of virtual machines, physical machines and mobile devices.
+Supporting business progress
+By making it easier for your team to manage hybrid environments 
+ including virtualised and conventional platforms 
+ Kaspersky Security for Virtualization helps you to introduce virtualisation at a pace that
+s right for your business.
+Improved return on investment (ROI)
+Because Kaspersky Security for Virtualization is an agentless solution, it helps businesses to achieve higher virtualisation density and performance 
+ helping to generate a higher return on investment.
+Superior security for virtualised environments
+Kaspersky Security for Virtualization has been specifically developed for virtualised IT infrastructure:
+- A single, centralised anti-malware solution can protect all virtual machines on a physical server;
+- Kaspersky
+s industry-leading frequency of anti-malware updates helps to minimise vulnerability and protect against new threats;
+- Powerful remediation capabilities disinfect malware;
+- The solution provides agentless protection for virtual machines that run on a wide range of Windows operating systems.
+Reducing costs 
+ by simplifying administration
+Advanced management features help to simplify administration tasks and eliminate security gaps:
+- Instead of having to install and manage protection on every virtual machine, a single instance of Kaspersky Security for Virtualization can protect all virtual machines on a physical server;
+- Physical and virtual endpoints are discovered dynamically;
+- New virtual machines are automatically provided with anti-malware protection 
+ to help eliminate security gaps and misconfigurations;
+- Administrators can adapt security settings to suit different applications and workloads.
+Many of the traditional, agent-based anti-malware products are not well suited to virtualised environments. Virtualisation is all about maximising the utilisation rates for the IT infrastructure 
+ in order to maximise return on investment. However, many agent-based anti-malware products require the antivirus software and signature database to be installed on every virtual machine
+ which partly defeats the object of virtualisation.
+Agent-based disadvantages
+- Duplication of antivirus software and signature database 
+ for every virtual machine 
+ reduces virtualisation density and reduces return on investment (ROI);
+- Duplication of file scanning of the base-line image 
+ reduces overall system performance;
+- When a dormant virtual machine is activated, it may have an out-of-date signature database or un-patched vulnerabilities;
+- 
+Scanning Storms
+ 
+ whereby multiple virtual machines are simultaneously running scans 
+ can adversely affect the performance of the host machine
+ or even cause a crash;
+- 
+Update Storms
+ 
+ whereby multiple virtual machines simultaneously download antivirus updates 
+ can adversely affect the performance of the host machine
+ or cause it to crash.
+Kaspersky
+s agentless solution
+Because Kaspersky Security for Virtualization is an agentless anti-malware solution, it only has to be installed once on a physical server
+ in order to protect all virtual machines on that server.
+- Higher density virtualisation 
+ as there is no duplication of antivirus software and signature database;
+- Improved performance 
+ from higher efficiency scanning;
+- Automatic protection for newly configured virtual machines and dormant virtual machines that are activated;
+- All updates of the anti-malware engine and signature database only need to be performed once per physical server 
+ not once per virtual machine
+ so 
+Update Storms
+ are eliminated;
+- Intelligent, load-balancing mechanisms help to guard against overload and limit the number of concurrent scans
+ so 
+Scanning Storms
+ are prevented.
+Applications inside Kaspersky Security for Virtualization
+- Kaspersky Security for Virtualization;
+- Kaspersky Security Center.]]></description>
+<categories>
+<category path="antivirus- &amp; beveiligingssoftware">antivirus- &amp; beveiligingssoftware</category>
+</categories>
+<additional>
+<field name="brand">Kaspersky Lab</field>
+<field name="producttype">Kaspersky Security for Virtualization - Server - 50-99 Virtualserver -</field>
+<field name="deliveryCosts">0.00</field>
+<field name="SKU">KL4251XAQFC</field>
+<field name="brand_and_type">Kaspersky Lab KL4251XAQFC</field>
+<field name="stock">Niet op voorraad</field>
+<field name="thumbnailURL">https://www01.cp-static.com/objects/thumb_pic/7/717/1348525284_antivirus-beveiligingssoftware-kaspersky-lab-security-f-virtualization-server-50-99u-1y-gov-kl4251xaqfc.jpg</field>
+<field name="deliveryTime">Backorder</field>
+<field name="imageURLlarge">https://www01.cp-static.com/objects/high_pic/7/717/1348525284_antivirus-beveiligingssoftware-kaspersky-lab-security-f-virtualization-server-50-99u-1y-gov-kl4251xaqfc.jpg</field>
+<field name="categoryURL">http://www.centralpoint.nl/antivirus-beveiligingssoftware/</field>
+<field name="EAN"></field>
+</additional>
+</product>
+</products>
+<!-- Total number of products: 10 -->
