@@ -1,3 +1,6 @@
 services:
+    app.feed.product_parser:
+        class: AppBundle\Service\Feed\Parser\ProductParser
     app.feed:
-        class: AppBundle\Service\FeedReader
+        class: AppBundle\Service\Feed\Reader
+        arguments: ['@app.feed.product_parser']
