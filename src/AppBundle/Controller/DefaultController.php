@@ -12,6 +12,8 @@ use AppBundle\Service\Feed\Reader;
 class DefaultController extends Controller
 {
     /**
+     * @param Request $request
+     *
      * @Route("/", name="homepage")
      *
      * @return Response
@@ -22,6 +24,8 @@ class DefaultController extends Controller
     }
 
     /**
+     * @param Request $request
+     *
      * @Route("/feed", defaults={"_format": "json"}, name="feed")
      *
      * @return Response
@@ -29,11 +33,13 @@ class DefaultController extends Controller
     public function feedAction(Request $request)
     {
         $xmlPath = $request->get('source');
+        $start = $request->get('start', 0);
+        $amount = $request->get('amount', 100);
         $xmlPath = "http://pf.tradetracker.net/?aid=1&type=xml&encoding=utf-8&fid=251713&categoryType=2&additionalType=2";
-        $xmlPath = "http://pf.tradetracker.net/?aid=1&type=xml&encoding=utf-8&fid=251713&categoryType=2&additionalType=2&limit=10";
+
         /** @var Reader $feedService */
         $feedService = $this->get('app.feed');
 
-        return new JsonResponse($feedService->processXml($xmlPath));
+        return new JsonResponse($feedService->processXml($xmlPath, $start, $amount));
     }
 }

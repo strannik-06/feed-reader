@@ -4,11 +4,11 @@
 var app = angular.module('app', []);
 
 app.controller('FeedController', function ($scope, $http) {
-    $scope.items = [];
+    $scope.products = [];
     $scope.retrieveItems = function(source) {
         $http.get('/feed')
-            .success(function (items) {
-                $scope.items = items;
+            .success(function (products) {
+                $scope.products = products;
             });
     };
 });

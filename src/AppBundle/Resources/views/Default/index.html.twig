@@ -1,6 +1,6 @@
 {% extends '::base.html.twig' %}
 
-{% block title %}Tradetracker{% endblock %}
+{% block title %}Feed Reader{% endblock %}
 
 {# todo: check how netter cdns could be included #}
 {# todo: add minimizing for custom files #}
@@ -21,21 +21,47 @@
     {% verbatim %}
     <div class="container" ng-app="app" ng-controller="FeedController">
         <h2>Feed application</h2>
-        <div class="col-sm-3">
-            <form role="form">
+        <div class="col-sm-12">
+            <form class="form-inline" role="form">
                 <div class="form-group">
                     <input class="form-control" ng-model="source" value="" placeholder="Enter source">
                 </div>
-                <input type="button" class="btn btn-default" value="Get data" ng-click="retrieveItems(source)" />
+                <input type="button" class="btn btn-success" value="Get data" ng-click="retrieveItems(source)" />
             </form>
-        </div>
-        <div class="col-sm-9">
-            <ul class="list-group">
-                <li class="list-group-item" ng-repeat="phone in items">
-                    <span>{{ phone.name }}</span>
-                    <p>{{ phone.snippet }}</p>
-                </li>
+            <ul class="pager">
+                <li><a href="#">Previous</a></li>
+                <li><a href="#">Next</a></li>
             </ul>
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>Image</th>
+                        <th>ProductID</th>
+                        <th>Name</th>
+                        <th>Description</th>
+                        <th>Price</th>
+                        <th>Category</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr ng-repeat="product in products">
+                        <td>
+                            <a target="_blank" href="{{ product.imageURL }}">
+                                <img ng-src="{{ product.imageURL }}" alt="{{ product.name }}" class="img-responsive">
+                            </a>
+                        </td>
+                        <td>{{ product.productID }}</td>
+                        <td><a href="{{ product.productURL }}">{{ product.name }}</a></td>
+                        <td>{{ product.description }}</td>
+                        <td>{{ product.currency }} {{ product.price }}</td>
+                        <td>
+                            <div class="product-categories" ng-repeat="category in product.categories">
+                                <span class="label label-primary">{{ category }}</span>
+                            </div>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
         </div>
     </div>
     {% endverbatim %}

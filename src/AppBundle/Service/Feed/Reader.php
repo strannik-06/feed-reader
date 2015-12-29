@@ -23,15 +23,14 @@ class Reader
     }
 
     /**
-     * @param string $xmlPath
+     * @param string  $xmlPath
+     * @param integer $start
+     * @param integer $amount
      *
      * @return array
      */
-    // @todo: add pagination
-    public function processXml($xmlPath)
+    public function processXml($xmlPath, $start = 0, $amount = 100)
     {
-        $start = 0;
-        $amount = 100;
         $xmlDocumentsCount = 0;
         $items = array();
 
