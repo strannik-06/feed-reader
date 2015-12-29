@@ -20,7 +20,7 @@ class ProductParserTest extends \PHPUnit_Framework_TestCase
     <productID>1c company_ma509pu013043-stck1</productID>
     <name>1C Company Toccare (MA509PU013043) (MA509PU013043-STCK1)</name>
     <price currency="EUR">146.85</price>
-    <productURL>http://www.centralpoint.nl/tracker/index.php?tt=534_251713_1_&amp;r=https%3A%2F%2Fwww.centralpoint.nl%2Fpos-terminals%2F1c-company%2Ftoccare-ma509pu013043-art-ma509pu013043-stck1-num-5558467%2F</productURL>
+    <productURL>http://www.centralpoint.nl/tracker/index.php?tt=534_251713_1_&amp;r=https%3A%2F%2F</productURL>
     <imageURL>http://www02.cp-static.com/images/pna_fo.jpg</imageURL>
     <description><![CDATA[ de doos open is geweest ]]></description>
     <categories>
@@ -56,7 +56,7 @@ XML;
                 'POS TERMINALS',
                 'SUPER CATEGORY',
             ),
-            'productURL' => 'http://www.centralpoint.nl/tracker/index.php?tt=534_251713_1_&r=https%3A%2F%2Fwww.centralpoint.nl%2Fpos-terminals%2F1c-company%2Ftoccare-ma509pu013043-art-ma509pu013043-stck1-num-5558467%2F',
+            'productURL' => 'http://www.centralpoint.nl/tracker/index.php?tt=534_251713_1_&r=https%3A%2F%2F',
             'imageURL' => 'http://www02.cp-static.com/images/pna_fo.jpg',
         );
 

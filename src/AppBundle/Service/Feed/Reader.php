@@ -5,7 +5,7 @@ namespace AppBundle\Service\Feed;
 use AppBundle\Service\Feed\Parser\ParserInterface;
 
 /**
- * Feed Reader Service.
+ * Feed Reader Service that can read large xml files
  */
 class Reader
 {

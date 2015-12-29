@@ -37,6 +37,7 @@ class DefaultControllerTest extends WebTestCase
 
     /**
      * Test for AppBundle\Controller\DefaultController::feedAction
+     * Also test performance - Any PHP used should be limited to 32MB of memory
      *
      * @param string  $source
      * @param integer $start
