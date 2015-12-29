@@ -35,7 +35,6 @@ class DefaultController extends Controller
         $xmlPath = $request->get('source');
         $start = $request->get('start', 0);
         $amount = $request->get('amount', 100);
-        $xmlPath = "http://pf.tradetracker.net/?aid=1&type=xml&encoding=utf-8&fid=251713&categoryType=2&additionalType=2";
 
         /** @var Reader $feedService */
         $feedService = $this->get('app.feed');

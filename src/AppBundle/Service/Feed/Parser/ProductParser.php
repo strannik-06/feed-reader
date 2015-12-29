@@ -3,7 +3,7 @@
 namespace AppBundle\Service\Feed\Parser;
 
 /**
- * Product parser class.
+ * Product Parser class
  */
 class ProductParser implements ParserInterface
 {
@@ -32,7 +32,7 @@ class ProductParser implements ParserInterface
                 $product['currency'] = $item->attributes->getNamedItem('currency')->nodeValue;
             } elseif ($item->nodeName == 'categories') {
                 $product['categories'] = $this->parseCategories($item);
-            };
+            }
         }
 
         return $product;

@@ -47,11 +47,7 @@ class Reader
             }
             $xmlDocument->close();
         } catch (\Exception $e) {
-            // todo: add displaying errors
-            //$this->logger->error($e->getMessage() . "\n" . $e->getTraceAsString());
         }
-        //file_put_contents(__DIR__.'/test.txt', $xmlDocumentsCount . PHP_EOL, FILE_APPEND);
-        //file_put_contents(__DIR__.'/test.txt', count($items).' - '.round(memory_get_usage(true) / 1000000, 3).PHP_EOL, FILE_APPEND);
 
         return $items;
     }
@@ -74,9 +70,9 @@ class Reader
     }
 
     /**
-     * @param int $xmlDocumentsCount
-     * @param int $start
-     * @param int $amount
+     * @param integer $xmlDocumentsCount
+     * @param integer $start
+     * @param integer $amount
      *
      * @return bool
      */

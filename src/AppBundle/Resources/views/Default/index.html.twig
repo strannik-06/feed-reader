@@ -2,8 +2,6 @@
 
 {% block title %}Feed Reader{% endblock %}
 
-{# todo: check how netter cdns could be included #}
-{# todo: add minimizing for custom files #}
 {% block javascripts %}
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.2/angular.min.js"></script>
@@ -11,6 +9,8 @@
     {% javascripts '@AppBundle/Resources/js/app.js' %}
         <script src="{{ asset_url }}"></script>
     {% endjavascripts %}
+    <script src="{{ asset('bundles/fosjsrouting/js/router.js') }}"></script>
+    <script src="{{ path('fos_js_routing_js', {'callback': 'fos.Router.setData'}) }}"></script>
 {% endblock %}
 
 {% block stylesheets %}
@@ -18,21 +18,26 @@
 {% endblock %}
 
 {% block body %}
-    {% verbatim %}
     <div class="container" ng-app="app" ng-controller="FeedController">
-        <h2>Feed application</h2>
+        <h2>Feed Reader</h2>
         <div class="col-sm-12">
-            <form class="form-inline" role="form">
-                <div class="form-group">
-                    <input class="form-control" ng-model="source" value="" placeholder="Enter source">
+            <form role="form">
+                <div class="row">
+                    <div class="col-xs-12">
+                        <div class="input-group input-group-lg">
+                            <input type="text" class="form-control" ng-model="source" placeholder="Enter source" />
+                            <div class="input-group-btn">
+                                <button type="submit" class="btn" ng-click="retrieveItems(source, 0, 100)">
+                                    Get data
+                                </button>
+                            </div>
+                        </div>
+                    </div>
                 </div>
-                <input type="button" class="btn btn-success" value="Get data" ng-click="retrieveItems(source)" />
             </form>
-            <ul class="pager">
-                <li><a href="#">Previous</a></li>
-                <li><a href="#">Next</a></li>
-            </ul>
-            <table class="table table-striped">
+            {{ block('pager') }}
+            {{ block('legend') }}
+            <table class="table table-striped hide ng-hide" ng-show="amount">
                 <thead>
                     <tr>
                         <th>Image</th>
@@ -45,24 +50,42 @@
                 </thead>
                 <tbody>
                     <tr ng-repeat="product in products">
+                        {% verbatim %}
                         <td>
                             <a target="_blank" href="{{ product.imageURL }}">
-                                <img ng-src="{{ product.imageURL }}" alt="{{ product.name }}" class="img-responsive">
+                                <img ng-src="{{ product.imageURL }}" class="img-responsive">
                             </a>
                         </td>
-                        <td>{{ product.productID }}</td>
-                        <td><a href="{{ product.productURL }}">{{ product.name }}</a></td>
-                        <td>{{ product.description }}</td>
-                        <td>{{ product.currency }} {{ product.price }}</td>
+                        <td ng-bind="product.productID"></td>
+                        <td><a href="{{ product.productURL }}" ng-bind="product.name"></a></td>
+                        <td ng-bind="product.description"></td>
+                        <td ng-bind="product.currency + ' ' + product.price"></td>
                         <td>
                             <div class="product-categories" ng-repeat="category in product.categories">
-                                <span class="label label-primary">{{ category }}</span>
+                                <span class="label label-primary" ng-bind="category"></span>
                             </div>
                         </td>
+                        {% endverbatim %}
                     </tr>
                 </tbody>
             </table>
+            {{ block('legend') }}
+            {{ block('pager') }}
         </div>
     </div>
-    {% endverbatim %}
+{% endblock %}
+
+{% block pager %}
+    <ul class="pager hide ng-hide" ng-show="amount">
+        <li><a href="#" ng-click="retrieveItems(source, start - amount, amount)">Previous</a></li>
+        <li><a href="#" ng-click="retrieveItems(source, start + amount, amount)">Next</a></li>
+    </ul>
+{% endblock %}
+
+{% block legend %}
+    <div class="hide ng-hide" ng-show="amount">
+        <strong>
+            Products from <span ng-bind="start"></span> to <span ng-bind="start + amount"></span>
+        </strong>
+    </div>
 {% endblock %}

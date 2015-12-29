@@ -2,7 +2,9 @@
 
 namespace AppBundle\Service\Feed\Parser;
 
-
+/**
+ * Interface ParserInterface
+ */
 interface ParserInterface
 {
     /**
